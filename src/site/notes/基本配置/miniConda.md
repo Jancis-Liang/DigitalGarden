@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//mini-conda/"}
+{"dg-publish":true,"permalink":"/基本配置/miniConda/"}
 ---
 
 
